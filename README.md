@@ -5,3 +5,4 @@ ctrl+D (označi naslednjo ponovitev), ctrl+S (shranjevanje sprememb), ctrl+K+C (
 
 
 dopolni README
+Commit directly to the main branch
