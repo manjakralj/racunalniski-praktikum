@@ -49,11 +49,11 @@ h2 {
     background-color: rgb(51, 0, 102, 0.1);
 }
 
-div {
-    /* border-color: red; */
-    /* border-style: solid; */
+ /* div {
+     border-color: red; 
+     border-style: solid; 
     border: red solid; 
-}   
+}     */
 
 .slika {
     font-size: 0.9em;
