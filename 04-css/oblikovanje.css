@@ -66,5 +66,16 @@ div {
 .slika img {
     width: 100%;
     height: auto;
+    border-radius: 50%;
+}
+
+.slika p:last-child {
+    font-size: 0.8em;
+    /* background-color: #cc0000; */
+    margin-top: -1em;
+}
+
+a::before {
+    content: "⭐"
 }
 
