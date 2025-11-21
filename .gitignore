@@ -1,5 +1,5 @@
-.aux
-.fbd_latexmk
-.fls
-.log
-.synctex.gz
+*.aux
+*.fbd_latexmk
+*.fls
+*.log
+*.synctex.gz
