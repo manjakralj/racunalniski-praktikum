@@ -2,3 +2,4 @@
 ctrl+D (označi naslednjo ponovitev), ctrl+K+C (zakomentiraj), ctrl+K+U (odkomentiraj)
 
 index.html
+https://github.com/manjakralj/manjakralj.github.io
